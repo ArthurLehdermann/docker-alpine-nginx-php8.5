@@ -1,4 +1,4 @@
-FROM php:8.5.12-fpm-alpine3.24
+FROM php:8.5.13-fpm-alpine3.24
 
 LABEL Maintainer="Arthur Lehdermann <ArthurLehdermann@gmail.com>" \
       Description="A lightweight container with Nginx & PHP 8.5 based on Alpine Linux pt-BR.UTF-8"
